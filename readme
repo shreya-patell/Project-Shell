@@ -4,9 +4,8 @@ List of available commands:
 
 help              Displays the user manual
 dir <directory>   Display contents of the current project directory
-environ           Lists all environmental strings
+printenv or env   Lists all environmental strings
 echo <comment>    Displays comment on the command line followed by a newline
 cd <path>         Changes the working directory to the specified path
-clr               Clear all text in the terminal
-pause             Pauses operation of the shell until the ENTER key is hit
-quit              Quits the shell
+clear             Clear all text in the terminal 
+quit or exit      Quits the shell
