@@ -1,4 +1,23 @@
-List of available commands:
+Contributors: -
+
+Adhish Malhotra (100761306)
+Aiden Jolley-Ruhn (100745886)
+Hima Paul (100753261)
+Shreya Patel (100747036)
+
+----------------------------------------------------------------------------
+
+Executing the Program: -
+
+1. Download the repository to your Ubuntu Virtualbox.
+2. Unzip the folder.
+3. Change the working directory to the src directory in the repository in your Ubuntu terminal. 
+4. Type the following command
+    make
+5. Run our custom shell inside your ubuntu terminal by typing the following command: -
+    ./Shell
+
+List of available commands: -
 
 ----------------------------------------------------------------------------
 
